@@ -116,8 +116,7 @@
 val KabiZoro = AndroidDeveloper(
     languages    = listOf("Kotlin", "Java"),
     architecture = listOf("MVI", "MVVM", "Clean Architecture"),
-    jetpack      = listOf("ViewModel", "LiveData", "Room", "Navigation",
-                          "WorkManager", "DataStore"),
+    jetpack      = listOf("ViewModel", "LiveData", "Room", "Navigation", "WorkManager", "DataStore"),
     networking   = listOf("Retrofit2", "OkHttp", "Ktor", "Gson"),
     di           = listOf("Koin", "Hilt"),
     async        = listOf("Coroutines", "Flow"),
